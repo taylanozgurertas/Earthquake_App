@@ -1,4 +1,4 @@
-# untitled
+# Earthquake app readme
 its an earthquake app it shows the earthquake list from kandilli bogazici with the
 information of their magnitude and exact locations it shows on the map ofc
 
