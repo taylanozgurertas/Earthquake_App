@@ -1,6 +1,6 @@
 # untitled
-
-A new Flutter project.
+its an earthquake app it shows the earthquake list from kandilli bogazici with the
+information of their magnitude and exact locations it shows on the map ofc
 
 ## Getting Started
 
